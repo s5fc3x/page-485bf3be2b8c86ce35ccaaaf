@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.taiweibo02.cn/sitemap.xml
